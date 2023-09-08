@@ -67,7 +67,7 @@ function Tiptap({
     editorProps: {
       attributes: {
         name: 'body',
-        class: 'prose prose-sm sm:prose lg:prose-lg xl:prose-2xl focus:outline-none whitespace-pre-wrap overflow-y-scroll bg-slate-500/100 w-full h-full page-content',
+        class: 'prose prose-sm sm:prose lg:prose-lg xl:prose-2xl focus:outline-none whitespace-pre-wrap overflow-y-scroll w-full h-full page-content',
       },
     },
     content: content || '',

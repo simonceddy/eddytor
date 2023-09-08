@@ -1,7 +1,7 @@
 function TiptapContainer({ children }) {
   return (
     <div
-      className="col w-full h-full min-h-full"
+      className="col w-full text-black dark:text-white bg-white dark:bg-black h-full min-h-full"
     >
       {children}
     </div>
