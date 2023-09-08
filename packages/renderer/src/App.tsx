@@ -1,8 +1,8 @@
+import Tiptap from './tiptap';
+
 function App() {
   return (
-    <div>
-      App!
-    </div>
+    <Tiptap />
   );
 }
 
